@@ -1,6 +1,5 @@
 # vue
 ```
-yarn install
-
+cd vue
 yarn serve
 ```
